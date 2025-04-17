@@ -89,4 +89,4 @@ plugin.path=/opt/kafka/connectors
 
 > Использование производится в соответствии с условиями лицензии Apache 2.0, включая указание оригинального источника и сохранение авторства.
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE)  file for details.
