@@ -77,7 +77,7 @@ plugin.path=/opt/kafka/connectors
 - Лицензия: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 - Автор: IBM Corporation
 
-Файл `kafka-connect-mq-sink-2.2.1-jar-with-dependencies.jar` включён в каталог `lib/` **исключительно для удобства локальной сборки**. Вы можете загрузить его напрямую с официальной страницы релизов IBM.
+Файл `kafka-connect-mq-sink-2.2.1-jar-with-dependencies.jar` включён в каталог `lib/` **исключительно для удобства локальной сборки**. Вы можете загрузить его напрямую с [официальной страницы релизов IBM.](https://github.com/ibm-messaging/kafka-connect-mq-sink)
 
 ### Apache Kafka Connect API
 
